@@ -1,0 +1,6 @@
+package com.order;
+
+public class OrderVO {
+	String item;
+	float price;
+}

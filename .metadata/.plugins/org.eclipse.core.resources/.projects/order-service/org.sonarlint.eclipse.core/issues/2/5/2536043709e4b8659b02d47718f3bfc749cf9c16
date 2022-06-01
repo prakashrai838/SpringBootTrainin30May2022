@@ -1,0 +1,15 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(í³œB8ß•è›‘0H²RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«Ö£8ö“‹›‘0H±RMAJORZ
+CODE_SMELL
+v
+java:S1128	"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿHRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¨ÿçø8¼›¹ ‘0HÖRMAJORZ
+CODE_SMELL
+y
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÓÓàÂ8´‰Ç‘0H¯RCRITICALZVULNERABILITY
+F
+java:S3751"Make this method "public".(ÓÓàÂH°RMAJORZ
+CODE_SMELL
